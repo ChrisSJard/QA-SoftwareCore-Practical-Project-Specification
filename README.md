@@ -1,5 +1,11 @@
 # QA-SoftwareCore-Practical-Project-Specification
 
+## Development Branch
+GITFLOW model means to have a commit channel parallel to the main branch (main branch becomes production branch).
+All features are branched from the development branch and merged to the development branch when approved.
+
+
+
 ## Scope
 The requirements set for the project are below. Note that these are a minimum set of requirements and can be added onto during the duration of the project.
 
